@@ -4,6 +4,8 @@
 Du skal i denne opgave opsætte en navigations bar
 Følgende links skal indgå i navigations baren:
 
+weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
 ```js
 /home
 /about
